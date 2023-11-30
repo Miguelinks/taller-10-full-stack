@@ -60,4 +60,6 @@
 
 <h2>Punto 14: Revisión de contraseña</h2>
 
+<img src="./public/images/Ejercicio 14  contraseña.png" alt="Ejercicio 14 contraseña">
+
 <h2>Punto 15: Selección de operación  aritmética usando funciones</h2>
